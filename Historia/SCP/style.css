@@ -1,0 +1,222 @@
+header {
+    background-color:darkred;
+}
+
+.form-control {
+    border-radius: 5px;
+    border: 1px lightgray solid;
+    background-color: #550F0F;
+    color: lightgrey
+}
+
+::placeholder {
+    color: lightgrey
+}
+ 
+.btn {
+    border-radius: 5px;
+    border: 1px lightgray solid;
+    background-color:#AC2929;
+    color: lightgray;
+
+}
+
+
+body {
+    width: 101%;
+    min-width: 600px;
+    max-width:2500px;
+    margin: 0%;
+    font-family: verdana,arial,helvetica,sans-serif;
+    color: #AC2929;
+   
+}
+
+.container {
+    width: 110vh;
+    margin-right:  auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+section {
+    text-align: center
+}
+
+.main-section {
+    width: 70vh
+}
+
+.main-section-head {
+    margin-top: 40px;
+}
+
+.scp-raport {
+    background: #fff9f0 url(
+        https://scp-wiki.wdfiles.com/local--files/component:theme/panel-bg-gradient-reverse.png) bottom repeat-x;
+    border: 1px black solid;
+    padding: 10px 0px;
+    margin-top: 30px;
+    box-shadow: 0px 0px 9px 0px rgba(66, 68, 90, 1);
+    border-radius: 10px;
+}
+
+.scp-raport h3 {
+    color: #600
+}
+
+.scp-raport-container {
+    display: flex;
+    justify-content: center;
+}
+
+.scp-raport-items p {
+    margin-top: 3px;
+    margin-bottom: 5px;
+    color: darkgoldenrod
+}
+
+.scp-raport-items a :hover{
+    text-decoration: underline;
+}
+
+.scp-raport-items a {
+    text-decoration: none;
+    color: darkorange;
+}
+
+.scp-raport-item {
+    border: 3px darkgoldenrod solid;
+    border-radius: 20px;
+    box-shadow: 0px 0px 4px 2px darkgoldenrod;
+    padding-top: 3px;
+    width: 30vh;
+    margin-bottom: 20px;
+    background-color: lightyellow;
+}
+
+
+.left-navbar {
+    border: 1px darkred solid;
+    margin-top: 30px;
+    padding-right: 15px ;
+    border-radius: 11px;;
+    width: 20vh;
+    font-weight: 700;
+    box-shadow: 0px 0px 6px 0.1px darkred;
+    height: 80%;
+}
+.left-navbar li {
+    text-decoration: none;
+}
+
+.left-navbar li :hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.left-navbar p {
+    font-size: 11px;
+    color: #550F0F 
+}
+
+.left-navbar hr {
+    width: 110%;
+    position: relative;
+    right: 1.6vh;
+}
+
+.left-navber-items {
+    padding-left: 25px;
+}
+
+.left-navber-items a {
+    color: #AC2929;
+}
+
+.nav1 {
+    display: inline;
+    width: 110vh;
+    margin-left: auto;
+    margin-right: auto ;
+}
+
+.nav-head {
+    display: flex;
+    background-color:darkred;
+    width: 110vh;
+    margin-left: auto;
+    margin-right: auto ;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-head-item {
+    display: flex;
+}
+
+.buttons-nav-head {
+    background-color: gray;
+    border: 0px;
+}
+
+.buttons-nav-head :hover {
+    cursor: pointer
+}
+
+.buttons-nav-head-1 {
+    text-align: end;
+    width: 110vh;
+    margin-left: auto;
+    margin-right: auto ;
+}
+
+button {
+    background-color: gray;
+    border: 0px;
+}
+
+button :hover {
+    cursor: pointer;
+}
+
+h1 {
+    color: white
+
+}
+
+h2 {
+    font-size: 50px;
+    margin: -11px;
+    color: #600;
+}
+
+p {
+    font-size: 12px
+}
+
+span {
+    color: lightgoldenrodyellow
+}
+
+li {
+    line-height: 120%;
+    font-size: 14px;
+    text-align: start
+}
+
+ul p {
+    text-align: start;
+    line-height: 50%;
+    margin-bottom: 2px;
+    margin-top: 14px;
+}
+
+ul hr {
+    margin-top: 5px
+}
+
+a {
+    text-decoration: none;
+}
