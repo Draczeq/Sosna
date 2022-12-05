@@ -52,14 +52,8 @@ section {
     margin-top: 40px;
 }
 
-.scp-raport {
-    background: #fff9f0 url(
-        https://scp-wiki.wdfiles.com/local--files/component:theme/panel-bg-gradient-reverse.png) bottom repeat-x;
-    border: 1px black solid;
-    padding: 10px 0px;
+.scp-raport { 
     margin-top: 30px;
-    box-shadow: 0px 0px 9px 0px rgba(66, 68, 90, 1);
-    border-radius: 10px;
 }
 
 .scp-raport h3 {
@@ -73,8 +67,6 @@ section {
 
 .scp-raport-items p {
     margin-top: 3px;
-    margin-bottom: 5px;
-    color: darkgoldenrod
 }
 
 .scp-raport-items a :hover{
