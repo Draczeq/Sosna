@@ -54,6 +54,9 @@ section {
 
 .scp-raport { 
     margin-top: 30px;
+    background-color: white;
+    border: 0px;
+    box-shadow: 0 0 0px 0px
 }
 
 .scp-raport h3 {
