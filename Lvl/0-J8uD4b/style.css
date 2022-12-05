@@ -18,9 +18,7 @@ header {
     border: 1px lightgray solid;
     background-color:#AC2929;
     color: lightgray;
-
 }
-
 
 body {
     width: 101%;
@@ -58,14 +56,6 @@ section {
     margin-top: 30px;
     box-shadow: 0px 0px 0px 0px ;
     text-align: start;
-}
-
-.scp-raport p {
-    font-size: 14px;
-}
-
-.scp-raport h3 {
-    color: #600
 }
 
 .scp-raport-container {
