@@ -18,7 +18,6 @@ header {
     border: 1px lightgray solid;
     background-color:#AC2929;
     color: lightgray;
-
 }
 
 
@@ -56,9 +55,9 @@ section {
     background: white;
     border: 0px;
     margin-top: 30px;
-    box-shadow: 0px 0px 0px 0px 
+    box-shadow: 0px 0px 0px 0px;
+    text-align: start;
 }
-
 
 .scp-raport-container {
     display: flex;
