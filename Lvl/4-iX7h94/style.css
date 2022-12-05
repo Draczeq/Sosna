@@ -53,49 +53,17 @@ section {
 }
 
 .scp-raport {
-    background: #fff9f0 url(
-        https://scp-wiki.wdfiles.com/local--files/component:theme/panel-bg-gradient-reverse.png) bottom repeat-x;
-    border: 1px black solid;
-    padding: 10px 0px;
+    background: white;
+    border: 0px;
     margin-top: 30px;
-    box-shadow: 0px 0px 9px 0px rgba(66, 68, 90, 1);
-    border-radius: 10px;
+    box-shadow: 0px 0px 0px 0px 
 }
 
-.scp-raport h3 {
-    color: #600
-}
 
 .scp-raport-container {
     display: flex;
     justify-content: center;
 }
-
-.scp-raport-items p {
-    margin-top: 3px;
-    margin-bottom: 5px;
-    color: darkgoldenrod
-}
-
-.scp-raport-items a :hover{
-    text-decoration: underline;
-}
-
-.scp-raport-items a {
-    text-decoration: none;
-    color: darkorange;
-}
-
-.scp-raport-item {
-    border: 3px darkgoldenrod solid;
-    border-radius: 20px;
-    box-shadow: 0px 0px 4px 2px darkgoldenrod;
-    padding-top: 3px;
-    width: 30vh;
-    margin-bottom: 20px;
-    background-color: lightyellow;
-}
-
 
 .left-navbar {
     border: 1px darkred solid;
