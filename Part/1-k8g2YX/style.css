@@ -68,8 +68,8 @@ section {
     font-size: 20px;
     background-color: darkred;
     position: absolute;
-    top: 100vh;
-    left: 50vh;
+    top: 10vh;
+    left: 5vh;
 }
 .left-navbar {
     border: 1px darkred solid;
