@@ -19,6 +19,7 @@ console.log(lvl)
 
 
 
+
 document.getElementById("navButton1").onclick = function(){
     alert("Nie chciało mi się tego robić, więc nic tu nie ma ;)")
 }
