@@ -18,9 +18,11 @@ header {
     border: 1px lightgray solid;
     background-color:#AC2929;
     color: lightgray;
-
 }
 
+.turnedOFF {
+    text-decoration: line-through;
+}
 
 body {
     width: 101%;
@@ -52,13 +54,11 @@ section {
     margin-top: 40px;
 }
 
-.scp-raport {
-  .scp-raport { 
+.scp-raport { 
     margin-top: 50px;
     background-color: white;
     border: 0px;
     box-shadow: 0 0 0px 0px
-}
 }
 
 .scp-raport h3 {

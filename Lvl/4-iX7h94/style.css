@@ -20,6 +20,9 @@ header {
     color: lightgray;
 }
 
+.turnedOFF {
+    text-decoration: line-through;
+}
 
 body {
     width: 101%;
@@ -28,7 +31,7 @@ body {
     margin: 0%;
     font-family: verdana,arial,helvetica,sans-serif;
     color: #AC2929;
-   
+
 }
 
 .container {

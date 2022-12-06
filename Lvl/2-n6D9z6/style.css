@@ -20,14 +20,17 @@ header {
     color: lightgray;
 }
 
+.turnedOFF {
+    text-decoration: line-through;
+}
+
 body {
     width: 101%;
     min-width: 600px;
     max-width:2500px;
     margin: 0%;
     font-family: verdana,arial,helvetica,sans-serif;
-    color: #AC2929;
-   
+    color: #AC2929; 
 }
 
 .container {

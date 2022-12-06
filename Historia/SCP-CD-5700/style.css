@@ -20,6 +20,9 @@ header {
     color: lightgray;
 }
 
+.turnedOFF {
+    text-decoration: line-through;
+}
 
 body {
     width: 101%;
@@ -63,7 +66,6 @@ section {
 }
 
 .scp-raport-container {
-    text-wrap: wrap;
     display: flex;
     justify-content: center;
 }
