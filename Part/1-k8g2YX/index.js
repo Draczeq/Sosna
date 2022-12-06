@@ -11,6 +11,7 @@ function licz(s) {
 }
 
 document.getElementByClass("orangeButton").onclick = function(){
+    licz(this)
     lvl = lvl + 1
 }
 
