@@ -67,9 +67,6 @@ section {
     color: orange;
     font-size: 20px;
     background-color: darkred;
-    position: absolute;
-    top: 10vh;
-    left: 5vh;
 }
 .left-navbar {
     border: 1px darkred solid;
