@@ -20,6 +20,9 @@ header {
     color: lightgray;
 }
 
+.turnedOFF {
+    text-decoration: line-through;
+}
 
 body {
     width: 101%;
